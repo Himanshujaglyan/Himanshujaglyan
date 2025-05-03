@@ -14,9 +14,9 @@
   <a href="https://linkedin.com/in/himanshu-jaglyan-841070239" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://www.leetcode.com/himanshu_jaglyan29" target="blank">
+<!--   <a href="https://www.leetcode.com/himanshu_jaglyan29" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
-  </a>
+  </a> -->
 </p>
 
 ---
