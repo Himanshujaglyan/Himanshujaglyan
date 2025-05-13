@@ -1,62 +1,70 @@
+<!-- Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Jaglyan;MERN+Stack+Developer;Passionate+about+Web+Development;Based+in+India+%F0%9F%87%AE%F0%9F%87%B3" />
+</p>
+
+<!-- Heading -->
 <h1 align="center">Hi 👋, I'm Himanshu Jaglyan</h1>
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
+---
+
+<!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshujaglyan&theme=radical" alt="himanshujaglyan" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshujaglyan&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
-
-- 📫 Reach me at: **himanshujaglyan29@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<!-- GitHub Stats and Streak -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himanshujaglyan&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshujaglyan&theme=radical" />
+</p>
+
+---
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanshujaglyan/himanshujaglyan/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 📫 Reach me at:
+📧 [himanshujaglyan29@gmail.com](mailto:himanshujaglyan29@gmail.com)
+
+---
+
+### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/himanshu-jaglyan-841070239" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://linkedin.com/in/himanshu-jaglyan-841070239" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-<!--   <a href="https://www.leetcode.com/himanshu_jaglyan29" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
-  </a> -->
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+### 🛠️ Tech Stack:
 
-<!-- Frontend -->
-<h4>💻 Frontend</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-</p>
+#### 💻 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!-- Backend -->
-<h4>🧠 Backend & Databases</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-</p>
+#### 🧠 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Tools -->
-<h4>🧰 Tools & Testing</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
-</p>
+#### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- Other/Extra -->
-<h4>⚙️ Others</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+---
+
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshujaglyan&theme=react-dark&bg_color=1d1d1d&color=00ffff&line=00ffff&point=ffffff" />
 </p>
