@@ -26,7 +26,7 @@
 
 <!-- Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanshujaglyan/himanshujaglyan/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/himanshujaglyan/himanshujaglyan/output/github-contribution-grid-snake.svg" alt="snake" />  
 </p>
 
 ---
